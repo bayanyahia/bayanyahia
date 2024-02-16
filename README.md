@@ -1,6 +1,6 @@
 # Hey, I'm Bayan Yahia
 
-I'm a 21-year-old Information Systems student and Backend Developer.
+I'm a 21 year-old Information Systems student and Backend Developer.
 
 ## 🌐 Current Endeavors
 I'm currently seeking new challenges as a Back-End developer to enhance my skills!
