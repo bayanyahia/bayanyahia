@@ -24,4 +24,4 @@ I'm currently working as a Backend Developer on projects at the university. I'm 
 - C was my first experience with programming.
 
 ## 📫 Contact
-Feel free to DM me on [LinkedIn](linkedin.com/in/bayan-yahia-54669a25a).
+Feel free to DM me on ([linkedin.com/in/bayan-yahia-54669a25a](https://linkedin.com/in/bayan-yahia-54669a25a)https://linkedin.com/in/bayan-yahia-54669a25a).
